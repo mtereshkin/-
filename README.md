@@ -7,6 +7,6 @@ Discrete Optimization on Coursera
 
 3. TSP - simulated annealing + greedy 3-opt 
 
-4. Facility Location - solved with Guroby
+4. Facility Location - solved with Gurobi
 
 5. VRP - Clark-Wright savings heuristics + greedy 3-opt
